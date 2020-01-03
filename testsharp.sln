@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webapi", "Webapi\Webapi.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{1DC46224-AEC9-4262-9908-32807DEF321E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{B6503A7C-1E92-4989-A1BC-7169E40B5FFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{1DC46224-AEC9-4262-9908-32807DEF321E}.Release|x64.Build.0 = Release|Any CPU
 		{1DC46224-AEC9-4262-9908-32807DEF321E}.Release|x86.ActiveCfg = Release|Any CPU
 		{1DC46224-AEC9-4262-9908-32807DEF321E}.Release|x86.Build.0 = Release|Any CPU
+		{B6503A7C-1E92-4989-A1BC-7169E40B5FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6503A7C-1E92-4989-A1BC-7169E40B5FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6503A7C-1E92-4989-A1BC-7169E40B5FFC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B6503A7C-1E92-4989-A1BC-7169E40B5FFC}.Debug|x64.Build.0 = Debug|Any CPU
+		{B6503A7C-1E92-4989-A1BC-7169E40B5FFC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B6503A7C-1E92-4989-A1BC-7169E40B5FFC}.Debug|x86.Build.0 = Debug|Any CPU
+		{B6503A7C-1E92-4989-A1BC-7169E40B5FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6503A7C-1E92-4989-A1BC-7169E40B5FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6503A7C-1E92-4989-A1BC-7169E40B5FFC}.Release|x64.ActiveCfg = Release|Any CPU
+		{B6503A7C-1E92-4989-A1BC-7169E40B5FFC}.Release|x64.Build.0 = Release|Any CPU
+		{B6503A7C-1E92-4989-A1BC-7169E40B5FFC}.Release|x86.ActiveCfg = Release|Any CPU
+		{B6503A7C-1E92-4989-A1BC-7169E40B5FFC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
